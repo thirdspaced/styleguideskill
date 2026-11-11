@@ -2,7 +2,7 @@
 
 A free set of writing rules you give to ChatGPT, Claude, Gemini, or any other AI chatbot. Upload it once, and the drafts that come back use plain words, keep your facts, and drop the habits that make people stop reading.
 
-Current version: 3 (October 2026). From [how to talk to robots](https://www.talktorobots.org/style-guide/).
+Current version: 3 (October 2026). Created by Amanda Grutza for [how to talk to robots](https://www.talktorobots.org). The guide also has a [page on the site](https://www.talktorobots.org/style-guide/).
 
 ## What it's for
 
@@ -59,6 +59,10 @@ Each file starts with skill frontmatter. Put one edition in a folder, rename it 
 ## Contributing
 
 If you find a pattern the guide misses, or a rule that gets in the way of good writing, [open an issue](https://github.com/thirdspaced/styleguideskill/issues) with an example and a rewrite. A preference that's only yours belongs in your own Make it yours table.
+
+## References
+
+- Peter Yang, [no-ai-slop](https://github.com/petergyang/no-ai-slop): an open-source skill for removing AI writing patterns from a draft. He introduced it in [Behind the Craft](https://creatoreconomy.so/p/use-my-no-ai-slop-skill-to-remove-20-ai-slop-patterns).
 
 ## License
 
